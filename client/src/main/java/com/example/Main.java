@@ -24,6 +24,7 @@ public class Main {
             System.out.println("Inserisci una nota, Lista o ESCI");
             String opzione = scannerOpzione.nextLine();
 
+            
             String stringaRicevuta = "";
 
             if(opzione.equals("ESCI")){
